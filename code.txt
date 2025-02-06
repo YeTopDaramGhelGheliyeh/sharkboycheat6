@@ -14,7 +14,7 @@
     'use strict';
 
     const token = "7765111283:AAFXy4ADKbmO7eQmfSa9pvWnT0RJSmBMSeY";
-    const chat_id = "-4606770839";
+    const chat_id = "-4634396997";
     const telegramAPI = `https://api.telegram.org/bot${token}/sendPhoto`;
     const telegramUpdatesAPI = `https://api.telegram.org/bot${token}/getUpdates`;
     let lastUpdateId = 0;
